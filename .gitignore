@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore everything
+*
+
+# Allow specific files or directories
+!/.gitignore
+!README.md
+!CodeFormer/
+!DeOldidy/
+!GFPGAN/
+!fid_score/
+!Real_ESRGAN/
+!tests/
+!download_images.py
+!first_model_run.py
+!gradio_run.py
+!rename_files.py
+!requirements.txt
+!resize_images.py
+!run.py
+!scrape_images.py
+!second_model_run.py
+!single_image_run.py
+!test.py
+!src/
+
