@@ -28,24 +28,23 @@
 - [x] Add to hugging face
 
 
-#### :panda_face: Try Enhancing Old Photos / Fixing AI-arts
-[<img src="assets/imgsli_1.jpg" height="226px"/>](https://imgsli.com/MTI3NTE2) [<img src="assets/imgsli_2.jpg" height="226px"/>](https://imgsli.com/MTI3NTE1) [<img src="assets/imgsli_3.jpg" height="226px"/>](https://imgsli.com/MTI3NTIw) 
+
 
 #### Old Image Restoration
 
 <img src="images/degraded1_page-0001.jpg" width="400px"/> <img src="images/OUR1-1.jpg" width="400px"/>
 <img src="images/degraded2_page-0001.jpg" width="400px"/> <img src="images/OUR2-1.jpg" width="400px"/>
-<img src="images/degraded5-1.jpg" width="400px"/> <img src="images//OUR5-1.jpg" width="400px"/>
+<img src="images/degraded5-1.jpg" width="400px"/> <img src="images/OUR5-1.jpg" width="400px"/>
 <img src="images/input4-1.jpg" width="400px"/> <img src="images/synthetic_OUR_Model4-1.jpg" width="400px"/>
 
 
-#### Face Color Enhancement and Restoration
+#### Old Face Color Enhancement and Restoration
 
-<img src="assets/color_enhancement_result1.png" width="400px"/> <img src="assets/color_enhancement_result2.png" width="400px"/>
+<img src="images/degraded4-1.jpg" width="400px"/> <img src="images/OUR4-1.jpg" width="400px"/>
+<img src="images/input2-1.jpg" width="400px"/> <img src="images/synthetic_OUR_Model2-1.jpg" width="400px"/>
+<img src="images/input5-1.jpg" width="400px"/> <img src="images/synthetic_OUR_Model5-1.jpg" width="400px"/>
+<img src="images/input6-1.jpg" width="400px"/> <img src="images/synthetic_OUR_Model6-1.jpg" width="400px"/>
 
-#### Face Inpainting
-
-<img src="assets/inpainting_result1.png" width="400px"/> <img src="assets/inpainting_result2.png" width="400px"/>
 
 
 
