@@ -33,7 +33,7 @@
 
 #### Old Image Restoration
 
-<img src="images/degraded1_page-0001.jpg" width="400px"/> <img src="images/OUR1-1" width="400px"/>
+<img src="images/degraded1_page-0001.jpg" width="400px"/> <img src="images/OUR1-1.jpg" width="400px"/>
 <img src="images/restoration_result3.png" width="400px"/> <img src="images/restoration_result4.png" width="400px"/>
 <img src="images/restoration_result1.png" width="400px"/> <img src="images/restoration_result2.png" width="400px"/>
 <img src="images/restoration_result1.png" width="400px"/> <img src="images/restoration_result2.png" width="400px"/>
