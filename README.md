@@ -14,9 +14,6 @@
 [Hrishikesh Magadum](https://hrishikeshm12.github.io/), [Hiteshwar Kumar Azad](https://www.linkedin.com/in/dr-hiteshwar-kumar-azad-b2984944/?originalSubdomain=in)
 
 
-<img src="assets/network.jpg" width="800px"/>
-
-
 :star: If DeOldiformer is helpful to your images or projects, please help star this repo. Thanks! :hugs: 
 
 
@@ -34,10 +31,13 @@
 #### :panda_face: Try Enhancing Old Photos / Fixing AI-arts
 [<img src="assets/imgsli_1.jpg" height="226px"/>](https://imgsli.com/MTI3NTE2) [<img src="assets/imgsli_2.jpg" height="226px"/>](https://imgsli.com/MTI3NTE1) [<img src="assets/imgsli_3.jpg" height="226px"/>](https://imgsli.com/MTI3NTIw) 
 
-#### Face Restoration
+#### Old Image Restoration
 
-<img src="assets/restoration_result1.png" width="400px"/> <img src="assets/restoration_result2.png" width="400px"/>
-<img src="assets/restoration_result3.png" width="400px"/> <img src="assets/restoration_result4.png" width="400px"/>
+<img src="images/degraded1_page-0001.jpg" width="400px"/> <img src="images/OUR1-1" width="400px"/>
+<img src="images/restoration_result3.png" width="400px"/> <img src="images/restoration_result4.png" width="400px"/>
+<img src="images/restoration_result1.png" width="400px"/> <img src="images/restoration_result2.png" width="400px"/>
+<img src="images/restoration_result1.png" width="400px"/> <img src="images/restoration_result2.png" width="400px"/>
+
 
 #### Face Color Enhancement and Restoration
 
