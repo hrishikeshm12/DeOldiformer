@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="deoldiformer_logo.png" height=110>
+  <img src="deoldiformer_logo.png" alt="DeOldiformer Logo" style="width:100%; height:auto;">
+
 </p>
 
 ## DeOldiformer: Bridging the Gap in Old Image Restoration with GANs and Transformers
