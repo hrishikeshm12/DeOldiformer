@@ -28,7 +28,7 @@ def run_first_model(image_path):
 
     try:
         render_factor = 35  # Setting render factor to 35
-        
+        output_folder='./deoldify_results'
         # Activate the virtual environment
         venv_activate_script = os.path.join("venv", "Scripts", "activate")
         activate_command = f'"{venv_activate_script}" &&'
@@ -38,7 +38,8 @@ def run_first_model(image_path):
             activate_command,
             f'"{sys.executable}"', "-m", "DeOldify.deoldify_execute",
             f'--source_url "{image_path}"',
-            f'--render_factor {render_factor}'
+            f'--render_factor {render_factor}',
+            f'--results_directory "{output_folder}"'
         ]
         
         # Join the command parts into a single string
