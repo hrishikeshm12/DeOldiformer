@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="deoldiformer_logo.png" alt="DeOldiformer Logo" style="width:100%; height:auto;">
 
@@ -96,3 +97,19 @@ This project is based on [CodeFormer](https://github.com/sczhou/CodeFormer) and 
 
 ### Contact
 If you have any questions, please feel free to reach me out at `hrishikeshmagadum09@gmail.com`. 
+=======
+---
+title: DeOldiformer
+emoji: 🚀
+colorFrom: gray
+colorTo: green
+sdk: gradio
+sdk_version: 5.9.1
+app_file: app.py
+pinned: false
+license: mit
+short_description: Upload an old degraded image to restore it
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 11098c7 (initial commit)
