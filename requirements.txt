@@ -266,7 +266,7 @@ widgetsnbextension==4.0.9
 wrapt==1.16.0
 wsproto==1.2.0
 yapf==0.40.2
-yt-dlp==2023.12.30
+yt-dlp
 zipp==3.17.0
 transformers
 setuptools-rust
