@@ -27,6 +27,8 @@
 - [x] Add batch file processing code
 - [x] Add to hugging face
 
+### Gradio App Demo
+![deoldiformer_project_cover](https://github.com/user-attachments/assets/3f1d5a6e-c140-4377-ad12-eda76b0237ac)
 
 
 
