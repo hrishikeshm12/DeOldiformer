@@ -34,7 +34,8 @@ def run_first_model(image_path):
 
     try:
         render_factor = 35  # Setting render factor to 35
-        
+        output_folder='./deoldify_results'
+
         # Activate the virtual environment
         venv_activate_script = os.path.join("venv", "Scripts", "activate")
         activate_command = f'"{venv_activate_script}" &&'
@@ -44,7 +45,8 @@ def run_first_model(image_path):
             activate_command,
             f'"{sys.executable}"', "-m", "DeOldify.deoldify_execute",
             f'--source_url "{image_path}"',
-            f'--render_factor {render_factor}'
+            f'--render_factor {render_factor}',
+            f'--results_directory "{output_folder}"'
         ]
         
         # Join the command parts into a single string
@@ -220,8 +222,8 @@ def main():
     
     outputs = gr.Image(label="Restored Image")
 
-    title = "Perceptual NoGAN-Enhanced CodeFormer for Image Reconstruction"
-    description = "Upload an image to restore and enhance its quality."
+    title = "DeOldiformer"
+    description = "Upload an old degraded image to restore and enhance its color and quality."
     examples = [["./examples/307127084_426710346225153_4314088907171612186_n.jpg"], ["./examples/307127084_426710346225153_4314088907171612186_n_deoldify.png"],
                 ["./examples/62aab33f1fa53-62a854c1100ed_101639832_3245698148813561_2469869223292174336_n__700.jpg"],["examples/62aab33f1fa53-62a854c1100ed_101639832_3245698148813561_2469869223292174336_n__700_deoldify.png"]
                 ,["examples/test1 _car.jpg"],["examples/test1 _car_final.png"]

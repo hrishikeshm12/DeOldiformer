@@ -81,18 +81,17 @@ def main(image_folder):
         # Free up resources
         free_up_resources()
 
-        render_factors = range(10, 45, 5)
+        render_factor = 35
         images = glob(os.path.join(image_folder, "*.png"))
 
-        for render_factor in render_factors:
-            output_folder = f"./deoldify_results_rf_{render_factor}"
-            os.makedirs(output_folder, exist_ok=True)
+        output_folder = f"./deoldify_results_rf_{render_factor}"
+        os.makedirs(output_folder, exist_ok=True)
 
-            for image_path in images:
-                run_first_model(image_path, render_factor, output_folder)
+        for image_path in images:
+            run_first_model(image_path, render_factor, output_folder)
 
-            # Free up resources after processing each render factor
-            free_up_resources()
+        # Free up resources after processing each render factor
+        free_up_resources()
 
 
     except Exception as e:
