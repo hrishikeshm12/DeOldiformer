@@ -269,3 +269,4 @@ yt-dlp==2023.12.30
 zipp==3.17.0
 transformers
 torch
+setuptools-rust
