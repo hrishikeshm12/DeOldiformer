@@ -93,23 +93,8 @@ This project is licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/h
 
 ### Acknowledgement
 
-This project is based on [CodeFormer](https://github.com/sczhou/CodeFormer) and [DeOldify](https://github.com/jantic/DeOldify). . We also adopt [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) to support background image enhancement. Thanks for their awesome works.
+This project is based on [CodeFormer](https://github.com/sczhou/CodeFormer) and [DeOldify](https://github.com/jantic/DeOldify). We also adopt [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) to support background image enhancement. Thanks to their awesome work.
 
 ### Contact
-If you have any questions, please feel free to reach me out at `hrishikeshmagadum09@gmail.com`. 
-=======
----
-title: DeOldiformer
-emoji: 🚀
-colorFrom: gray
-colorTo: green
-sdk: gradio
-sdk_version: 5.9.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: Upload an old degraded image to restore it
----
+If you have any questions, please feel free to reach out at `hrishikeshmagadum09@gmail.com`. 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
->>>>>>> 11098c7 (initial commit)
