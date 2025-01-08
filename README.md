@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="deoldiformer_logo.png" alt="DeOldiformer Logo" style="width:100%; height:auto;">
 
